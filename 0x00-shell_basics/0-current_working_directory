@@ -1,2 +1,2 @@
-Your file should finish with a new line
-console.log("Good")
+#!/bin/bash
+Your file should finish with a new line; console.log("Good")
