@@ -1,0 +1,2 @@
+#!/bin/bash
+console.log("Your file should finish with a new line")
